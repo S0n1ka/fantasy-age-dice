@@ -1,0 +1,31 @@
+.dice-container {
+  text-align: center;
+  padding: 15px;
+}
+
+.dice{
+  background:#F5F5F5;
+  border:#999 2px solid;
+  border-radius:10px;
+  padding:10px 15px;
+  font-size:24px;
+  font-weight: bold;
+  text-align:center;
+}
+
+.stunt{
+  background:#FF4242;
+}
+
+.button-container {
+  text-align: center;
+  padding: 15px;
+}
+
+.roll-status {
+  text-align: center;
+}
+
+.stunted {
+  color: #FF4242;
+}
